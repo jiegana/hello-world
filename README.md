@@ -1,2 +1,2 @@
 # hello-world
-Contains code from the Alfa Despertar proyect
+GitHub training
